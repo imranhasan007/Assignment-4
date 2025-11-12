@@ -8,4 +8,3 @@ This program begins by taking user input and writing it to a file named output.t
 Next, it prompts the user for additional input, which is appended to the same file, preserving existing content. 
 Finally, it reads and displays the entire file’s contents line by line. 
 The step-by-step process demonstrates safe writing, appending, and reading techniques in Python, ensuring both user inputs are correctly stored and shown as intended.
->>>>>>> 7977c6a53cf5c6db05b637454e89edeb3c691a4a
